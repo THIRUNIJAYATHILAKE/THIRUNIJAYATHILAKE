@@ -24,6 +24,8 @@ A passionate software developer from Sri Lanka.
 
 ## 📊 GitHub Stats
 ![Thiruni's GitHub stats](https://github-readme-stats.vercel.app/api?username=THIRUNIJAYATHILAKE&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THIRUNIJAYATHILAKE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/thiruni-jayathilake/)
