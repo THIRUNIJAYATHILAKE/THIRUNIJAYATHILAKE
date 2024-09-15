@@ -2,6 +2,9 @@
 
 A passionate software developer from Sri Lanka.
 
+![Profile Views](https://komarev.com/ghpvc/?username=THIRUNIJAYATHILAKE&color=blue)
+
+
 ## My Profile
 💡 I enjoy exploring new technologies and developing innovative software solutions.  
 🎓 Currently pursuing a BSc (Hons) in Information Technology at the University of Moratuwa.  
