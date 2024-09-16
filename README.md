@@ -34,7 +34,7 @@ A passionate software developer from Sri Lanka.
 - [LinkedIn](https://www.linkedin.com/in/thiruni-jayathilake/)
 - [GitHub](https://github.com/THIRUNIJAYATHILAKE)
 
-### Credits Thiruni
+### Credits Thiruni Jayathilake
 Last Edited on: 15/09/2024
 
 
